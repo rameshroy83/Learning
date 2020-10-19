@@ -1,0 +1,7 @@
+# The code in this file is just to print the output
+
+#!/usr/bin/python3
+
+import OS
+
+print(f"Hello World")
