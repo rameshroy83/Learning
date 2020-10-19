@@ -9,4 +9,5 @@ import playsound
 '''
 The above method of importing the module help us use the module directly
 '''
-playsound.playsound('/home/kali/Desktop/LAB/Learning/Maroon_5_ft_Wiz_Khalifa_-_Payphone_Qoret.com.mp3
+playsound.playsound('/home/kali/Desktop/LAB/Learning/Maroon_5_ft_Wiz_Khalifa_-_Payphone_Qoret.com.mp3')
+
