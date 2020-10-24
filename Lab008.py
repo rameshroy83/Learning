@@ -13,6 +13,7 @@ print (type(a))
 Num_1 = input("Please enter a first number: ")
 Num_2 = input("Please enter a second number: ")
 print(f"The sume of the given numbers is: {Num_1} + {Num_2} = {int(Num_1)+int(Num_2)}")
+print(f"The sum of the given numbers is: {Num_1} + {Num_2} =", int(Num_1)+int(Num_2))
 
 
 
