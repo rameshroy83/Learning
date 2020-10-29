@@ -19,3 +19,8 @@ print(f"The factorial of {num1} is:",fac(num1))
 
 # Here we created a function to build the factorial logic and later used it to compute the factorial.
 
+def Goodday(naam):
+    print(f"Good Day {naam}")
+
+name = input("Please enter you name: ")
+Goodday(name)
