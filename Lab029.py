@@ -24,3 +24,11 @@ def Goodday(naam):
 
 name = input("Please enter you name: ")
 Goodday(name)
+
+
+'''
+There are built in functions as well as user defined functions.
+The built in function are the function already there ready to use in python
+like len, range sum etc.
+The Goodday and fact functions created earlier are user define functions.
+'''
